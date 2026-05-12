@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm a Software Engineer 🚀</h1>
+  <h1>Hi, I'm a Victoire Ansima </h1>
   <p><i>Building scalable, type-safe web applications with the React ecosystem.</i></p>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZHg0eXpxeXpxeXpxeXpxeXpxeXpxeXpxeXpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
