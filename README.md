@@ -39,19 +39,19 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victoire67&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoire67&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoire67&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
 ### 🤝 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/victoire67" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
@@ -61,5 +61,5 @@
 
 <br />
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d8ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=victoire67&color=00d8ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
