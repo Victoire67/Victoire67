@@ -51,15 +51,12 @@
 
 ### 🤝 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/victoire67" target="_blank">
+  <a href="https://linkedin.com/in/victoire-ansima" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ansimavicky@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=victoire67&color=00d8ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
