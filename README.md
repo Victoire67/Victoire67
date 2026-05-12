@@ -12,6 +12,7 @@
 ---
 
 ### 💫 About Me
+
 - 🔭 I’m currently working on **UniFlow**, a university office tracking system.
 - ⚛️ Deeply engaged in the **React, Node.js, and TypeScript** ecosystem.
 - 🛡️ Passionate about **Cybersecurity** and network analysis.
@@ -38,9 +39,12 @@
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoire67&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoire67&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+[![Victoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoire67&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoire67&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <div align="center">
@@ -50,6 +54,7 @@
 ---
 
 ### 🤝 Connect with Me
+
 <div align="center">
   <a href="https://linkedin.com/in/victoire-ansima" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
