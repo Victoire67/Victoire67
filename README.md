@@ -5,6 +5,7 @@
 <div align="center">
   <h1>Hi, I'm Victoire Ansima 👋</h1>
   <p><i>Python, AI & Machine Learning Apprentice at <b>AmaliTech</b>, turning data into intelligent solutions.</i></p>
+  <a href = "http://victoireansima.netlify.app/" >My portfolio</a>
 </div>
 
 ---
